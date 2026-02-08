@@ -1,0 +1,25 @@
+{
+  "profile": {
+    "name": "Ditt navn",
+    "age": 38,
+    "bio": "Kort beskrivelse av deg selv",
+    "work": "Kort beskrivelse av jobben din",
+    "locale": "no-NO"
+  },
+  "contacts": [
+    {
+      "name": "Ditt navn",
+      "number": "Ditt nummer",
+      "relationship": "Eier"
+    }
+  ],
+  "preferences": {
+    "tone": "Hjelpsom, positiv og litt sarkastisk",
+    "response_style": "kort og presist via SMS"
+  },
+  "interests": [
+    "teknologi",
+    "programmering"
+  ],
+  "notes": []
+}
