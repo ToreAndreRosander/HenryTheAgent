@@ -1,0 +1,24 @@
+{
+  "llm": {
+    "mode": "http",
+    "fallback_to_http": true,
+    "http": {
+      "server_url": "http://<ip>:<port>/v1/chat/completions",
+      "model_name": "qwen2.5",
+      "timeout": 30
+    },
+    "mqtt": {
+      "broker": "<ip/url>",
+      "port": 1883,
+      "timeout": 45,
+      "request_topic": "inference/request",
+      "response_topic_template": "inference/response/{request_id}"
+    }
+  },
+  "user": {
+    "phone_number": ""
+  },
+  "onboarding": {
+    "completed": false
+  }
+}

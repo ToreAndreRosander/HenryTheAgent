@@ -1,25 +1,28 @@
 {
   "profile": {
-    "name": "Ditt navn",
-    "age": 38,
-    "bio": "Kort beskrivelse av deg selv",
-    "work": "Kort beskrivelse av jobben din",
+    "name": "",
+    "age": 99,
+    "bio": "",
+    "work": "",
     "locale": "no-NO"
   },
   "contacts": [
-    {
-      "name": "Ditt navn",
-      "number": "Ditt nummer",
-      "relationship": "Eier"
-    }
+
   ],
   "preferences": {
-    "tone": "Hjelpsom, positiv og litt sarkastisk",
-    "response_style": "kort og presist via SMS"
+    "tone": "",
+    "response_style": ""
   },
   "interests": [
-    "teknologi",
-    "programmering"
+    "",
+    ""
   ],
-  "notes": []
+  "notes": [],
+  "short_term_memory": {
+    "current_context": "",
+    "current_date": "",
+    "user_location": "",
+    "user_activity": "",
+    "today_plans": []
+  }
 }
